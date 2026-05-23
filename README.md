@@ -27,7 +27,7 @@ A modern, beautiful Snake game built with HTML, CSS & JavaScript featuring **smo
 
 ## 🚀 Live Demo
 
-[Play Now →](https://yourusername.github.io/snake-game)
+[Play Now →](https://gamesnakepro.netlify.app/)
 
 ## 🛠️ Technologies
 
